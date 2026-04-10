@@ -6,6 +6,7 @@ This project demonstrates a complete DevOps pipeline using modern tools to autom
 ---
 
 ## 🏗️ Architecture Diagram
+![Project Image](fullstack-blogging-app.jpeg)
 <img src="fullstack-blogging-app.jpeg" width="400"/>
 
 ---
