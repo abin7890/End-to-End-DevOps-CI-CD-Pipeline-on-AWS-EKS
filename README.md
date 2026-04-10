@@ -55,4 +55,27 @@ Application is accessible via AWS Load Balancer URL.
 
 ---
 
-## 📂 Project Structure
+---
+
+## 📚 Learnings
+
+- CI/CD pipeline implementation
+- Kubernetes deployment
+- AWS EKS setup
+- Docker & container security
+- Monitoring using Prometheus & Grafana
+
+---
+
+## ⚠️ Challenges Faced
+
+- EKS node creation issues  
+- IAM role configuration  
+- Kubernetes authentication  
+
+---
+
+## 👤 Author
+
+- Name: Abin VA
+- LinkedIn: www.linkedin.com/in/abin-va-37b502354
