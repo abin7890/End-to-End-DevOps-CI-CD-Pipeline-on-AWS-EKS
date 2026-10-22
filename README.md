@@ -64,15 +64,6 @@ Application is accessible via AWS Load Balancer URL.
 - AWS EKS setup
 - Docker & container security
 - Monitoring using Prometheus & Grafana
-
----
-
-## ⚠️ Challenges Faced
-
-- EKS node creation issues  
-- IAM role configuration  
-- Kubernetes authentication  
-
 ---
 
 ## 👤 Author
